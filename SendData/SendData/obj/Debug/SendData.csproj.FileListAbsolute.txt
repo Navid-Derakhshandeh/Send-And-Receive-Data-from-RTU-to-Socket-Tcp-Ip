@@ -1,0 +1,13 @@
+D:\Test4\SendData\SendData\bin\Debug\SendData.exe.config
+D:\Test4\SendData\SendData\bin\Debug\SendData.exe
+D:\Test4\SendData\SendData\bin\Debug\SendData.pdb
+D:\Test4\SendData\SendData\bin\Debug\EasyModbus.dll
+D:\Test4\SendData\SendData\obj\Debug\SendData.csprojAssemblyReference.cache
+D:\Test4\SendData\SendData\obj\Debug\SendData.Form1.resources
+D:\Test4\SendData\SendData\obj\Debug\SendData.Properties.Resources.resources
+D:\Test4\SendData\SendData\obj\Debug\SendData.csproj.GenerateResource.cache
+D:\Test4\SendData\SendData\obj\Debug\SendData.csproj.CoreCompileInputs.cache
+D:\Test4\SendData\SendData\obj\Debug\SendData.csproj.CopyComplete
+D:\Test4\SendData\SendData\obj\Debug\SendData.exe
+D:\Test4\SendData\SendData\obj\Debug\SendData.pdb
+D:\Test4\SendData\SendData\obj\Debug\SendData.KnobControl.resources
