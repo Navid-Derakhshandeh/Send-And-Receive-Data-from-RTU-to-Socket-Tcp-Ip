@@ -1,0 +1,11 @@
+D:\Test4\Reciever\Reciever\bin\Debug\Reciever.exe.config
+D:\Test4\Reciever\Reciever\bin\Debug\Reciever.exe
+D:\Test4\Reciever\Reciever\bin\Debug\Reciever.pdb
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.csprojAssemblyReference.cache
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.KnobControl.resources
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.Properties.Resources.resources
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.csproj.GenerateResource.cache
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.csproj.CoreCompileInputs.cache
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.exe
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.pdb
+D:\Test4\Reciever\Reciever\obj\Debug\Reciever.Form1.resources
